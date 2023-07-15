@@ -102,7 +102,7 @@ const App = ({ data, activePage, setActivePage, itemsPerPage, totalValue }) => {
               </strong>
             </ValueSegment>
             <ValueSegment>
-              <strong>Saldo total no período: {getValueAtCurrentData()}</strong>
+              <strong>Saldo total na consulta: {getValueAtCurrentData()}</strong>
             </ValueSegment>
           </TotalValueSegment>
         </Grid.Column>
