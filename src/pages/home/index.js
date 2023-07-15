@@ -12,12 +12,11 @@ export const Home = () => {
       <section className="intro">
         <h2>Seja bem-vindo(a) ao Meu frontend</h2>
         <p>
-          Essa é a página inicial do projeto do mini projeto de visualização de
-          transferências bancarias, ao prosseguir, você poderá acessar a tela
-          principal do projeto, onde 3 filtros, um de data limitante inferior e
-          outro superior, além disso um filtro de número de conta bancaria, além
-          disso, um botão pesquisar, que ao apertado trará resultados dessa
-          consulta!
+        Bem-vindo à página inicial do projeto de visualização de transferências bancárias. 
+        Ao prosseguir, você terá acesso à tela principal, onde encontrará três filtros:
+         um para definir a data limite inferior, outro para a data limite superior e 
+         um terceiro para o nome do titular da conta bancária. Além disso, há um botão de pesquisa
+          que, ao ser acionado, trará os resultados dessa consulta!
         </p>
       </section>
       <section className="image-section">
